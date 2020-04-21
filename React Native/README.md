@@ -8,8 +8,10 @@ As a user I should be able to:
    - Max length - 255
 3. Mark an item as completed (deletes item from the list)
 4. Add up to one image from device album to the list item
+
+Only portrait view is supported
 ## Design
-![Mockup](https://octodex.github.com/images/yaktocat.png)
+![Mockup](https://raw.githubusercontent.com/imatveev/tech-interview/master/React%20Native/mockup.jpeg)
 ## Compatibility
 Should be Android-only compatible
 ## Output

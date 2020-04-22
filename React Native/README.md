@@ -11,7 +11,7 @@ As a user I should be able to:
 
 Only portrait view is supported
 ## Design
-![Mockup](https://raw.githubusercontent.com/imatveev/tech-interview/master/React%20Native/mockup.jpeg)
+![Mockup](https://raw.githubusercontent.com/imatveev/tech-interview/master/React%20Native/mockup.jpg)
 ## Compatibility
 Should be Android-only compatible
 ## Output
